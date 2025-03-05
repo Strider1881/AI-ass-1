@@ -1,0 +1,11 @@
+name: CSF407_2025_2021B4A32924H
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - pgmpy
+  - ipython
+  - jupyter
